@@ -6,7 +6,7 @@ O script desafioInpeace.py, é usado para duplicar um arquivo de código html al
 
 ## Como usar:
 
-Execute o código por linha de comando, seguindo a estrutura de exemplo abaixo:
+Execute o código por linha de comando, seguindo a estrutura de exemplo abaixo: <br/>
 python desafioInpeace.py  (arquivoA.xml) (arquivoB.xml) (variavelParaAlterar) (novoValorVariavel)
 
 ## exemplo:
