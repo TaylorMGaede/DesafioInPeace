@@ -1,7 +1,8 @@
 # DesafioInPeace
 Desafio para Estágio em Programação na InPeace App
 
-O script é usado para duplicar um arquivo de código html, alterando o valor (cor) de uma variável.
+## Objetivo do script
+O script desafioInpeace.py, é usado para duplicar um arquivo de código html alterando o valor (cor) de uma variável.
 
 ## Como usar:
 
