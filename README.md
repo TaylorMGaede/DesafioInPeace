@@ -3,12 +3,12 @@ Desafio para Estágio em Programação na InPeace App
 
 O script é usado para duplicar um arquivo de código html, alterando o valor (cor) de uma variável.
 
-##Como usar:
+## Como usar:
 
 Execute o código por linha de comando, seguindo a estrutura de exemplo abaixo:
 python desafioInpeace.py  (arquivoA.xml) (arquivoB.xml) (variavelParaAlterar) (novoValorVariavel)
 
-##exemplo:
+## exemplo:
 python desafioInpeace.py  "a.xml" "b.xml" colorPrimary A2A2A2
 
 
